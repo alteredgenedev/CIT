@@ -1,0 +1,2 @@
+run cmd and press
+npm install --save socket.io
